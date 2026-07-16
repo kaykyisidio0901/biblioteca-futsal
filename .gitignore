@@ -1,0 +1,7 @@
+node_modules/
+dist/
+src/
+vite.config.js
+tailwind.config.js
+package.json
+package-lock.json
